@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeta
-- 👀 I’m interested in OPSEC, Web Fullstack and almost everything actually
-- 🌱 I’m currently learning swift UI, Azure devOps and solidity 
+- 👀 I’m interested in OPSEC, Web Fullstack and Maths
+- 🌱 I’m currently learning OCaml,Assembly 
 - 📫 How to reach me itz_zeta on Discord
 
 <!---
